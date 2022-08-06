@@ -1,0 +1,53 @@
+.form {
+  width: 250px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: rgb(20, 188, 197);
+  height: 300px;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+.selection {
+  width: 210px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background-color: rgb(20, 188, 197);
+  border: none;
+}
+
+.result1 {
+  text-align: center;
+  margin-top: 20px;
+  background-color: blue;
+  color: #fff;
+  padding: 10px;
+}
+
+.result2 {
+  text-align: center;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: rgb(215, 77, 9);
+  color: #fff;
+}
+
+.input {
+  width: 200px;
+  margin-top: 20px;
+  outline: none;
+  color: #fff;
+  background-color: rgb(20, 188, 197);
+  border: none;
+  border-bottom: 2px solid black;
+}
+
+.btn {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 50px;
+  padding: 5px;
+  padding-right: 45px;
+}
